@@ -1,6 +1,6 @@
 <div id="top"></div>
 <div align="center">
-    <img src="./src/components/img/job.png">
+    <img src="./src/img/job.png">
 
     <h1>Job Tracking App</h1>
 </div>
