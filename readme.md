@@ -23,7 +23,7 @@
 
 ## About The Project
 
-Tailwind css was used to create this project. It is a web app for tracking jobs.
+Tailwind css was used to create this project. It is a web app for tracking jobs applied.
 
 **Features**
 
