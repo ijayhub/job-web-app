@@ -35,7 +35,7 @@ Tailwind css was used to create this project. It is a web app for tracking jobs.
 
 ## Overview
 
-* [Repo codes](https://github.com/ijayhub/job-tracking-app)
+* [Repo codes](https://github.com/ijayhub/job-web-app)
 
 * [LIVE LINK](https://job-web-app.netlify.app)
 
