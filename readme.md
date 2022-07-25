@@ -1,9 +1,8 @@
 <div id="top"></div>
 <div align="center">
     <img src="./src/img/job.png">
-
-    <h1>Job Tracking App</h1>
 </div>
+<h1  align="center" >Job Tracking Web App</h1>
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -20,6 +19,7 @@
     </li>      
   </ol>
 </details>
+
 
 ## About The Project
 
