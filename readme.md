@@ -37,7 +37,7 @@ Tailwind css was used to create this project. It is a web app for tracking jobs.
 
 * [Repo codes](https://github.com/ijayhub/job-tracking-app)
 
-* [LIVE LINK]()
+* [LIVE LINK](job-web-app.netlify.app)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
