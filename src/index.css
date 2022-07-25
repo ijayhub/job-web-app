@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Gothic&family=Niconne&family=Nunito+Sans&family=Roboto&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root{
+  --primary-color:#645CFF;
+  --primary-bg-color:#645CFF;
+}
+body {
+  font-family:sans-serif;
+  background-color:#F8FAFC;
+}
+
+.nav{
+  font-family: 'Nunito',sans-serif;
+  
+}
+.nav-icon{
+  background-color: var(--primary-bg-color);
+  font-size:25px;
+}
+.nav-text{
+  color: var(--primary-color);
+  font-size:20px;
+}
+.btn-logout{
+  background-color: var(--primary-bg-color);
+
+}
+.hero-btn{
+  background-color: var(--primary-bg-color);
+  border: none;
+  outline: none;
+}
+.box-container{
+  width:40%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-left: 400px;
+  border-top: 4px solid var(--primary-bg-color);
+}
+.email{
+  background-color: #E8F0FE;
+  width: 100%;
+  border: none;
+  outline: none;
+}
+.label{
+  font-size:14px;
+}
+.login-text{
+  font-size:14px;
+}
+.div-width{
+  background-color: var(--primary-bg-color);
+}
+.form-user{
+  width:100%;
+  padding: 7px;
+  outline: none;
+}
+::placeholder{
+  color: black;
+}
+.table-job{
+  background-color:#E2E8F0 ;
+  padding:20px;
+}
+.table-icon{
+  position: relative;
+  left: 32%;
+}
+/* ................. update */
+.update{
+  font-size:14px;
+}
+@media only screen and (max-width:600px){
+  .hero-img{
+    display:none;
+  }
+  .hero-container{
+    margin:100px 20px;
+  }
+  .nav{
+    margin:20px;
+  }
+  .hero-title{
+    line-height:1.2;
+  }
+  .box-container{
+    margin: 20px;
+    width: 90%;
+    padding: 0 20px;
+  }
+  .email,.form-btn,.label {
+    width: 100%;
+  }
+  ::placeholder{
+    font-size: 14px;
+  }
+  .form-user{
+    width: 90%;
+    margin:20px;
+  }
+  .table-job{
+    display: none;
+  }
+  .table-inputs{
+    display: flex;
+    flex-direction: column;
+    width:100%;
+  }
+}
